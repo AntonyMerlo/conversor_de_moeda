@@ -20,3 +20,7 @@ Desenvolver um Conversor de Moedas que ofereça interação textual (via console
 - **Exchangerate**: API de conversão de moeda. [aqui](https://www.exchangerate-api.com/)
 - **GSON (2.10.1)**: Biblioteca para serialização e desserialização de objetos Java em JSON. Você pode encontrar mais informações sobre o GSON. [aqui](https://mvnrepository.com/artifact/com.google.code.gson/gson/2.10.1)
 - **Maven**: O Apache Maven é uma ferramenta de gerenciamento e compreensão de projetos de software. [aqui](https://maven.apache.org/)
+
+## observação
+
+Defina a chave da API própria, no site da Exchangerate, e coloque em Consulta.java substituindo o valor **Definir_api_key**.
